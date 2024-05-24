@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        method( "Nazgul", "Muha", "Misha");
+        method( "iPhone", "iPad", "AppleWatch");
     }
     static void method(String ... abc){
         for (String a : abc){
